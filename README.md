@@ -17,7 +17,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/qt/qt-original.svg" height="40" width="52" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" height="40" width="52" alt="jupyter logo"  />
@@ -33,7 +34,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" height=40 width=52 alt="linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/bash/bash-original.svg" height="40" width="52" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cmake/cmake-original-wordmark.svg" height=40 width=52 />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/pytorch/pytorch-original.svg" height="40" width="52" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/qt/qt-original.svg" height="40" width="52" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vim/vim-original.svg" height="40" width="52" />
 </div>
